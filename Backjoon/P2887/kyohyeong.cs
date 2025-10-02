@@ -1,4 +1,4 @@
-namespace Backjoon.P11404;
+namespace Backjoon.P2887;
 
 public class kyohyeong
 {
